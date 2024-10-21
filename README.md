@@ -1,3 +1,6 @@
+# 💫 About Me:
+Desarrollador Java | Especialista en Spring Boot y Microservicios 💡<br><br>Desarrollador con más de 5 años de experiencia en la creación de aplicaciones backend robustas y escalables utilizando Java y el ecosistema Spring Boot. <br>Mi enfoque principal ha sido el diseño y desarrollo de microservicios modernos, asegurando soluciones eficientes, mantenibles y altamente disponibles.<br><br>📌 Habilidades clave:<br><br>Desarrollo de APIs RESTful con Spring Boot.<br>Implementación de arquitecturas basadas en microservicios.<br>Experiencia en herramientas como Spring Cloud, Spring Data, Spring Security, y Hibernate.<br>Manejo de bases de datos SQL.<br>Desarrollo orientado a pruebas (TDD, JUnit, Mockito).<br>🚀 Apasionado por la creación de soluciones elegantes y escalables. Siempre en busca de nuevos retos y tecnologías para mejorar la eficiencia y calidad del software.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pabloalvrz) 
